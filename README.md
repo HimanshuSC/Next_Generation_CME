@@ -10,5 +10,6 @@ $ python nxt_gen_cme.py --help
 
 We can check all the protools by providing --all flag in the command
 
+$ python nxt_gen_cme.py smb 10.10.11.35 -u emily.oscars -p '<password>' --all 
 
 <img width="1431" height="580" alt="nxt_gen_cme_screenshot" src="https://github.com/HimanshuSC/Next_Generation_CME/blob/main/nxt_gen_cme_screenshot.png" />
