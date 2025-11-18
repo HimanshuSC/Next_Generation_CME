@@ -13,3 +13,15 @@ We can check all the protools by providing --all flag in the command
 $ python nxt_gen_cme.py smb 10.10.11.35 -u emily.oscars -p 'password' --all 
 
 <img width="1431" height="580" alt="nxt_gen_cme_screenshot" src="https://github.com/HimanshuSC/Next_Generation_CME/blob/main/nxt_gen_cme_screenshot.png" />
+
+
+# Contributing
+
+Pull requests are welcome. Feel free to open an issue if you want to add other features.
+
+
+# References
+
+It uses impacket and nmap under the hood
+https://github.com/fortra/impacket
+https://github.com/nmap/nmap
